@@ -24,3 +24,4 @@ Je suis convaincu que cette expérience me permettra de développer mes compéte
 
 * [Audience Performance](https://audienceperf.fr) :globe_with_meridians:
 * [École](https://www.doranco.fr) :school:
+:wave:$
