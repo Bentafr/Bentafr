@@ -1,16 +1,26 @@
-## Hi there 👋
+# Alternant Graphiste/Webdesigner chez AudiencePerformance
 
-<!--
-**Bentafr/Bentafr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Étudiant en** : Graphisme et Webdesign :art:  
+**École** : Doranco :school:  
+**Année(s)** : 2023-2025<br>
 
-Here are some ideas to get you started:
+## Objectifs de mon alternance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Acquérir des compétences pratiques dans le domaine du graphisme et du webdesign :computer:
+* Participer à des projets concrets au sein de l'entreprise :chart_with_upwards_trend:
+* Développer mon réseau professionnel :handshake:
+
+## Contact
+
+Benjamin Serpin :man_technologist:  
+
+```benjaminsrp.pro@hotmail.com```:envelope:
+
+## Commentaires
+
+Je suis convaincu que cette expérience me permettra de développer mes compétences et de me lancer dans une carrière de graphiste/webdesigner. :rocket:
+
+## Liens utiles
+
+* [Audience Performance](https://audienceperf.fr) :globe_with_meridians:
+* [École](https://www.doranco.fr) :school:
